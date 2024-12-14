@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Vikash and I'm a Web Developer, from Delhi.</h3>
+<h3 align="left">I’m an Aspirant Full Stack Developer passionate about building dynamic and interactive web applications. I'm continuously learning new technologies and striving to improve my skills in front-end and back-end development.</h3>
 
 ###
 
