@@ -45,11 +45,23 @@
 
 ###
 <h2>Contact Me</h2>
+<div align="left">
+  <a href="mailto:vikashsigh24@gmail.com" style="margin-right: 15px;">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" 
+      alt="Email" 
+      width="32"
+    />
+      <img width="12" />
 
-[![Email](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:vikashsigh24@gmail.com)
+  </a>
+  <a href="https://www.linkedin.com/in/vikash-singh-b80209222/" style="margin-left: 15px;">
+    <img 
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+      alt="LinkedIn" 
+      width="32"
+    />
+  </a>
+</div>
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/vikash-singh-b80209222/)
- 
-
-<img src="https://raw.githubusercontent.com/Vikashsigh24/Vikashsigh24/output/snake.svg" alt="Snake animation" />
-
+ ###
