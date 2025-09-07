@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I’m an Aspirant Full Stack Developer passionate about building dynamic and interactive web applications. I'm continuously learning new technologies and striving to improve my skills in front-end and back-end development.</h3>
+<h3 align="left">I’m an aspiring Full Stack Developer passionate about creating dynamic, scalable, and user-friendly web applications. I enjoy working across both front-end and back-end technologies, constantly learning and experimenting with new tools and frameworks. My goal is to build impactful digital solutions while continuously enhancing my coding skills and best practices.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating responsive design<br>📚 I'm currently learning advance frontend languages<br>🎯 Goals: Full stack developer<br>🎲 Fun fact: Joke Cracker</p>
+<p align="left">✨ Crafting responsive and interactive designs<br>📚Currently mastering advanced back-end technologies<br>🎯 Goal: Become a proficient Full Stack Developer<br>🎲 Fun fact: Joke Cracker</p>
 
 ###
 
@@ -34,7 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="spring boot logo"  />
 </div>
+
 
 ###
 
