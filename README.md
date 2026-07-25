@@ -2,7 +2,19 @@
 
 ###
 
-<h3 align="left">I’m an aspiring Full Stack Developer passionate about creating dynamic, scalable, and user-friendly web applications. I enjoy working across both front-end and back-end technologies, constantly learning and experimenting with new tools and frameworks. My goal is to build impactful digital solutions while continuously enhancing my coding skills and best practices.</h3>
+<h3 align="left">Hi 👋, I'm Vikash
+
+💻 Full-Stack Developer passionate about building scalable web and mobile applications.
+
+🚀 Tech Stack:
+- Frontend: React.js, React Native (Expo), HTML, CSS, JavaScript, TypeScript
+- Backend: Node.js, Express.js, Java, Spring Boot
+- Database: PostgreSQL, MySQL, Prisma
+- Tools: Git, GitHub, Docker, AWS, Firebase
+
+🌱 Currently building e-commerce applications with React Native and Node.js.
+
+📫 Reach me: vikashsigh24@gmail.com.</h3>
 
 ###
 
